@@ -18,12 +18,6 @@ Computer Engineering student at the University of Évora focused on backend deve
 * Operating System Simulator
 * UDP Chat System
 
-## Currently Learning
-
-* Spring Security
-* Docker
-* Backend Architecture
-
 ## Contact
 
 * LinkedIn: https://linkedin.com/in/rodrigo-barreto-12825038b
