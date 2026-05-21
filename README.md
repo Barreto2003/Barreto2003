@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rodrigo Barreto 👋
 
-<!--
-**Barreto2003/Barreto2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Évora focused on backend development, distributed systems and networking.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Spring Boot
+* REST APIs
+* PostgreSQL
+* C
+* Linux
+* MQTT / gRPC
+
+## Featured Projects
+
+* Environmental Monitoring System
+* Operating System Simulator
+* UDP Chat System
+
+## Currently Learning
+
+* Spring Security
+* Docker
+* Backend Architecture
+
+## Contact
+
+* LinkedIn: https://linkedin.com/in/rodrigo-barreto-12825038b
+* Email: [rodrigobarreto2003@gmail.com](mailto:rodrigobarreto2003@gmail.com)
