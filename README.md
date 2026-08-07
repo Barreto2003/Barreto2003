@@ -6,6 +6,8 @@ Computer Engineering student at the University of Évora focused on backend deve
 
 * Java
 * Spring Boot
+*  C#
+* ASP.NET Core
 * REST APIs
 * PostgreSQL
 * C
