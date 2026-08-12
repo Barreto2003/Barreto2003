@@ -14,12 +14,6 @@ Computer Engineering student at the University of Évora focused on backend deve
 * Linux
 * MQTT / gRPC
 
-## Featured Projects
-
-* Environmental Monitoring System
-* Operating System Simulator
-* UDP Chat System
-
 ## Contact
 
 * LinkedIn: https://linkedin.com/in/rodrigo-barreto-12825038b
